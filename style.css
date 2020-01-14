@@ -6,13 +6,15 @@ figure {
   text-align: center
 }
 
-#featured-property, #featured-property p {
+#featured-property p {
   text-align: center;
   width: 800px;
   margin: auto
 }
 
-
+#featured-property {
+  text-align: center
+}
 
 #details div {
   display: block;
