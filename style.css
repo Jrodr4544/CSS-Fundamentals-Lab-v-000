@@ -14,7 +14,7 @@ p {
   display: block;
   background-color: #333;
   float: left;
-  
+  width: 25%;
 }
 
 body {
