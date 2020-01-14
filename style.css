@@ -11,6 +11,7 @@ p {
 }
 
 #details {
+  display: inline-block;
   background-color: #333;
   overflow: hidden;
   position: fixed;
