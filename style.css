@@ -10,7 +10,9 @@ p {
   text-align: center
 }
 
-section #
+section #details {
+  margin: auto;
+}
 
 body {
   width: 100%;
