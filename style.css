@@ -10,7 +10,7 @@ p {
   text-align: center
 }
 
-section #details {
+#details {
   background-color: #333;
   overflow: hidden;
   position: fixed;
