@@ -17,6 +17,11 @@ nav a {
   margin: auto
 }
 
+#featured-property div {
+  width: 25px;
+}
+}
+
 #featured-property {
   text-align: center
 }
