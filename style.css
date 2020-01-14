@@ -6,6 +6,10 @@ figure {
   text-align: center
 }
 
+nav a {
+  padding: 10px
+}
+
 #featured-property p {
   text-align: center;
   width: 800px;
