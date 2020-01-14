@@ -6,13 +6,13 @@ figure {
   text-align: center
 }
 
-#featured-property p {
+#featured-property, #featured-property p {
   text-align: center;
   width: 800px;
   margin: auto
 }
 
-#featured-property
+
 
 #details div {
   display: block;
