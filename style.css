@@ -21,6 +21,10 @@ nav a {
   text-align: center
 }
 
+#featured-property figcaption{
+   font-size: 10px;
+}
+
 #details div {
   display: block;
   background-color: red;
