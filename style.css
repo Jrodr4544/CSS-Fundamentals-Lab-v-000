@@ -24,6 +24,10 @@ p {
   /*padding: 10px;*/
 }
 
+#details div {
+  float: right;
+}
+
 body {
   width: 100%;
   height: 100%;
