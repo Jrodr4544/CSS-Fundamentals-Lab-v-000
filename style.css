@@ -10,7 +10,7 @@ p {
   text-align: center
 }
 
-#details, #details div {
+#details div {
   display: block;
   background-color: #333;
   float: left;
