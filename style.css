@@ -11,7 +11,7 @@ p {
 }
 
 section #details {
-  margin: auto;
+    display:inline-block;
 }
 
 body {
