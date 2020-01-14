@@ -10,9 +10,9 @@ p {
   text-align: center
 }
 
-/*section #details {*/
-/*    display:inline-block;*/
-/*}*/
+section #details {
+    display:inline-block;
+}
 
 body {
   width: 100%;
